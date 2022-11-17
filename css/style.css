@@ -1,0 +1,27 @@
+td{
+    
+    width: 100px;
+}
+td.Top {
+        font-size: 70px;
+        width: 1500px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: bold;
+}
+td.Small-top {
+        text-align:center;
+        font-family: 'Roboto', sans-serif;
+        font-weight: bold;
+}
+
+img.img {
+        float: left;
+        height: 50%; 
+        width: 50%;
+}
+p.darkish-gray{
+        float: left;
+        height: 50%;
+        width: 50%;
+        font-size: 800%;
+}
